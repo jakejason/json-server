@@ -1,0 +1,37 @@
+{
+  "todos": [
+    {
+      "id": "1e17",
+      "name": "Learning VueJS",
+      "isDone": true
+    },
+    {
+      "id": "b538",
+      "name": "Learning JavaScript",
+      "isDone": true
+    },
+    {
+      "id": "27cc",
+      "name": "Learning HTML",
+      "isDone": true
+    },
+    {
+      "id": "379a",
+      "name": "Learning Sth Everyday",
+      "isDone": true
+    },
+    {
+      "id": "08a7",
+      "name": "Learning ReactJS",
+      "isDone": false
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "Jhone Doe",
+      "email": "jhone@test.com",
+      "provider": "gmail"
+    }
+  ]
+}
